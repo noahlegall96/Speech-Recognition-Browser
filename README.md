@@ -12,6 +12,9 @@ Selenium is a software commonly used by companies for Quality Assurance testing.
 Selenium Download:
 http://www.seleniumhq.org/download/
 
+Chrome Driver Download:
+https://sites.google.com/a/chromium.org/chromedriver/downloads
+
 This application requires the user to set up a Google Cloud account. A detail guide could be found here.
 https://cloud.google.com/speech/docs/getting-started
 
