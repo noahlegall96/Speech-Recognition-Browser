@@ -1,5 +1,6 @@
 # Speech-Recognition-Browser
 COMP 580 
+Created by: Nina Joseph, Yan Ren, and Noah Legall (students at the University of North Carolina at Chapel Hill).
 
 Our project looks to combine voice recognition algorithms with webdriver automation technology Selenium to make the process of web-surfing hands free. This project will provide a speech mediated interface to interact with web browsers. 
 
