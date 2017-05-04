@@ -10,3 +10,8 @@ Selenium is a software commonly used by companies for Quality Assurance testing.
 
 Selenium Download:
 http://www.seleniumhq.org/download/
+
+This application requires the user to set up a Google Cloud account. A detail guide could be found here.
+https://cloud.google.com/speech/docs/getting-started
+
+Once the credential is set up and required your service acount key. Deploy the project to your Google acount. 
